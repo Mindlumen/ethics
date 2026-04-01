@@ -13,8 +13,8 @@ This repository contains the constitutional documents that govern how we design,
 ### [constitution.md](constitution.md)
 The structured principles document — organized as a hierarchy of commitments, four philosophical pillars, core operating principles, prohibited behaviors, and governance process. This is the specification that product and engineering decisions pull from.
 
-### [Why We Built It This Way](SUBSTACK-URL)
-Published on Mind Lumen Substack. The narrative explains the reasoning behind the principles: the gatekeeping problem, the money problem, the question of who holds knowledge, and the theory of healing the tools are built around.
+### [Why We Built It This Way](https://mindlumen.substack.com/p/the-story-behind-mind-lumens-ethical)
+[Published on Mind Lumen Substack](https://mindlumen.substack.com/p/the-story-behind-mind-lumens-ethical). The narrative explains the reasoning behind the principles: the gatekeeping problem, the money problem, the question of who holds knowledge, and the theory of healing the tools are built around.
 
 ## Principles at a Glance
 

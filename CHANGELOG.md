@@ -15,7 +15,7 @@ Versions follow semantic versioning: MAJOR.MINOR.PATCH.
 
 ### Added
 - Initial publication of `constitution.md`: hierarchy of commitments, four philosophical pillars (psychology, philosophy, anthropology, applied ethics), core operating principles (cognitive liberty, source independence, language and framing, system limits, harm reduction), prohibited behaviors, and governance framework
-- Initial publication of `narrative.md`: *Why We Built It This Way* — plain-language explanation of the reasoning behind the constitution
+- Initial publication of `narrative.md`: [*Why We Built It This Way*](https://mindlumen.substack.com/p/the-story-behind-mind-lumens-ethical) — plain-language explanation of the reasoning behind the constitution, published on Mind Lumen Substack
 - `README.md` with principles at a glance and versioning policy
 
 ### Notes
