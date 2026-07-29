@@ -6,3 +6,6 @@ AI-Editor-Bot-Spec.md
 
 # Local tooling
 .claude/
+
+# One-off maintenance script — not part of the published standard
+scrub-history.sh
