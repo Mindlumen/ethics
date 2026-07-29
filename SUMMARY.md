@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mind Lumen Ethics](README.md)
+* [Mind Lumen Ethics Infrastructure Framework](README.md)
 
 ## Ethics Commons Proposals
 

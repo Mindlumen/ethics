@@ -1,4 +1,4 @@
-# Mind Lumen Ethics
+# Mind Lumen Ethics Infrastructure Framework
 
 **Open source ethics infrastructure for mental health and psychedelic communities**
 
