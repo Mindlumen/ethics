@@ -1,0 +1,54 @@
+{
+  "series": "ECP",
+  "description": "Index of assigned Ethics Commons Proposal numbers. Numbers are assigned by an editor when a proposal moves to Draft, sequentially, and are never reused (ECP-0, Numbering).",
+  "statusVocabulary": [
+    "Idea",
+    "Draft",
+    "Review",
+    "Last Call",
+    "Ratified",
+    "Living",
+    "Stagnant",
+    "Withdrawn",
+    "Rejected",
+    "Superseded"
+  ],
+  "proposals": [
+    {
+      "ecp": 0,
+      "title": "Ethics Commons Proposal Purpose and Guidelines",
+      "type": "Meta",
+      "status": "Living",
+      "provisional": true,
+      "version": "0.1",
+      "requires": [],
+      "file": "ECPs/ecp-0000.md",
+      "created": "2026-07-28",
+      "updated": "2026-07-28"
+    },
+    {
+      "ecp": 1,
+      "title": "Ethics Adjudication Governance Specification",
+      "type": "Standards Track",
+      "status": "Draft",
+      "provisional": true,
+      "version": "0.1",
+      "requires": [0],
+      "file": "ECPs/ecp-0001.md",
+      "created": "2026-07-28",
+      "updated": "2026-07-28"
+    },
+    {
+      "ecp": 2,
+      "title": "Ethics Case Registry Data Specification",
+      "type": "Standards Track",
+      "status": "Draft",
+      "provisional": true,
+      "version": "0.1",
+      "requires": [0, 1],
+      "file": "ECPs/ecp-0002.md",
+      "created": "2026-07-28",
+      "updated": "2026-07-28"
+    }
+  ]
+}

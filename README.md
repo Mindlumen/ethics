@@ -67,7 +67,7 @@ Attribution is requested for adaptation and reuse. Claiming conformance to a Min
 
 Scrutiny is the point. Disagreement, gaps, and unresolved questions are more useful to us than agreement.
 
-Every ECP carries an open-questions section listing what is deliberately unresolved. Those are the best places to start.
+Where an ECP has unresolved questions, it carries an open-questions section listing them. Those are the best places to start.
 
 Open an issue to raise a concern or suggest a change. For ECPs, suggestions that identify a specific section and propose alternative language can move through the process; general objections belong in discussion first. Contributions are attributed by name — the framework is public intellectual work, and its authorship should be visible.
 
