@@ -3,3 +3,6 @@ AI-Editor-Bot-Spec.md
 
 # macOS
 .DS_Store
+
+# Local tooling
+.claude/
