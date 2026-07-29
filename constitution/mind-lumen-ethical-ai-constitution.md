@@ -161,5 +161,8 @@ The constitution should be reviewed whenever: a pattern of user harm or near-har
 Because this is a document grounded in applied ethics, it should change when the evidence warrants. The governance process exists to ensure that those changes are deliberate, documented, and reversible — not impulsive, silent, or driven by commercial pressure.
 
 ---
+## License
+
+The Ethical AI Constitution by Mind Lumen is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en). You are free to share and adapt this work, in whole or in part and for any purpose, as long as you give appropriate credit, link to the license, indicate any changes, and release your adaptations under the same license so the work stays open.
 
 *This constitution is published as a public document. Mind Lumen invites scrutiny, feedback, and criticism. We believe that transparency about the ethical foundations of AI systems in sensitive domains is not optional — it is the baseline requirement for earning the trust of the people these systems are meant to serve.*
