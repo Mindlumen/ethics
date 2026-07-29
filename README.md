@@ -1,48 +1,78 @@
-# Mind Lumen Ethical AI Constitution
+# Mind Lumen Ethics
 
-**Principles and Guidelines for AI Applications in Mental Health and Psychedelic Education**
+**Open source ethics infrastructure for mental health and psychedelic communities**
 
----
+Mind Lumen is a 501(c)(3) nonprofit. We build systems of trust: ethical frameworks, certification, and the infrastructure that makes accountability observable rather than asserted. We publish those frameworks openly, before we build on them, because a framework nobody can inspect is not a framework — it is a claim.
 
-Mind Lumen is a 501(c)(3) nonprofit building ethical AI tools for mental health and psychedelic education. We believe that the ethical framework behind an AI system should be as transparent as the system itself — so we publish ours openly, before we build.
+This repository holds everything in that programme that is meant to be public.
 
-This repository contains the constitutional documents that govern how we design, build, and evaluate any AI application in our ecosystem. We are writing these before writing code, because we believe that is the only order that produces trustworthy tools.
+## What's in here
 
-## Documents
+### `/ECPs` — Ethics Commons Proposals
 
-### [constitution.md](constitution.md)
-The structured principles document — organized as a hierarchy of commitments, four philosophical pillars, core operating principles, prohibited behaviors, and governance process. This is the specification that product and engineering decisions pull from.
+Community-ratifiable standards for handling ethics concerns and conflicts. The ECP series is independent of any platform or organisation, and any community may adopt it.
 
-### [Why We Built It This Way](https://mindlumen.substack.com/p/the-story-behind-mind-lumens-ethical)
-[Published on Mind Lumen Substack](https://mindlumen.substack.com/p/the-story-behind-mind-lumens-ethical). The narrative explains the reasoning behind the principles: the gatekeeping problem, the money problem, the question of who holds knowledge, and the theory of healing the tools are built around.
+| Document | What it covers |
+|---|---|
+| [ECP-0](ECPs/ecp-0000.md) | Series purpose and guidelines — template, statuses, editor role, amendment process |
+| [ECP-1](ECPs/ecp-0001.md) | Adjudication governance — authority boundaries, categorisation, severity ladder, disclosure tiers, the adjudication body |
+| [ECP-2](ECPs/ecp-0002.md) | Registry data specification — record schema, de-identification, publication rules, AI agent constraints |
 
-## Principles at a Glance
+### `/repair-process` — The Nine Standards
 
-1. **Reduce risk; do not promise to eliminate harm** — harm cannot be fully prevented; the standard is risk reduction, not harm elimination
-2. **Protect cognitive liberty** — people have a right to informed self-determination over their own consciousness
-3. **Be honest about what you know and don't know** — source transparency and conflict of interest disclosure take precedence over appearing confident
-4. **Expand access, not gatekeeping** — widen access to accurate, independent information
-5. **Remain revisable** — this constitution is a living document, not a dogma
+A working framework defining what ethical repair means in practice and what a fair process requires. Predates the ECP series and informs ECP-1.
 
-## Philosophical Foundations
+### `/constitution` — Ethical AI Constitution
 
-- **Psychology**: Integration-oriented depth psychology over symptom-suppression frameworks
-- **Philosophy**: Direct access and non-attachment — no required intermediary between a person and their own inquiry
-- **Anthropology**: Indigenous knowledge as foundation, not footnote — borrowing with attribution
-- **Ethics**: Applied and empirical — principles must be observable, measurable, and revisable
+The principles governing how Mind Lumen designs, builds, and evaluates AI applications. Written before the code, and published so others can use or adapt it. See [`constitution/README.md`](constitution/README.md).
 
-## Versioning
+### `/registry` — Series index
 
-This document follows semantic versioning. Every change is committed with a rationale. The changelog is maintained in [CHANGELOG.md](CHANGELOG.md).
+Machine-readable index of assigned ECP numbers, used by tooling.
 
-## License
+## Two governance regimes, one repository
 
-This constitution is published as a public document under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt it with attribution.
+This matters before you open a pull request. The documents here are not all changed the same way.
+
+| Documents | How they change | Who decides |
+|---|---|---|
+| ECPs | The ECP-0 amendment process: fourteen-day Last Call, then 60% supermajority of participating voters | The community that has adopted the series |
+| Constitution | Layer 0 of the Architecture of Constraints. Changed only by the Somatic Compiler role, with documented rationale | Mind Lumen |
+| Repair process | Working draft, currently pre-ratification. Expected to fold into the ECP series | Mind Lumen, provisionally |
+
+A proposal to change an ECP is a community matter and follows ECP-0. A proposal to change the constitution is a suggestion to Mind Lumen, which we welcome but do not put to a vote. Both are worth making; they travel different routes.
+
+## What is deliberately not here
+
+**Adjudicated case records.** These live in a separate registry under a different license (CDLA-Permissive-2.0), because they accumulate without bound, require privacy review on every addition, and are intended to transfer to an independent steward.
+
+**Case studies and internal analysis.** Case analysis is internal work. It informs the standards but is not published here, and no case material — however anonymised — belongs in this repository.
+
+**Working records from any adjudication.** These are confidential by design and destroyed or sealed at closure under ECP-1.
+
+The registry is a measurement instrument, not a screening instrument. It carries no identities and cannot tell anyone whether a specific person has a history. That is the intended tradeoff.
+
+## Licensing
+
+| Content | License |
+|---|---|
+| All documents in this repository | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Any code published here | Apache 2.0 |
+| Registry dataset (separate repository) | CDLA-Permissive-2.0 |
+| Standard names and conformance marks | Trademark, held by Mind Lumen |
+
+Attribution is requested for adaptation and reuse. Claiming conformance to a Mind Lumen standard requires the mark; implementing or adapting the standard does not.
 
 ## Contributing
 
-We welcome scrutiny, feedback, and critique. Open an issue to propose a change or raise a concern. Pull requests are welcome with a clear rationale for the proposed amendment.
+Scrutiny is the point. Disagreement, gaps, and unresolved questions are more useful to us than agreement.
 
----
+Every ECP carries an open-questions section listing what is deliberately unresolved. Those are the best places to start.
 
-*Mind Lumen — mindlumen.org*
+Open an issue to raise a concern or suggest a change. For ECPs, suggestions that identify a specific section and propose alternative language can move through the process; general objections belong in discussion first. Contributions are attributed by name — the framework is public intellectual work, and its authorship should be visible.
+
+## Related reading
+
+[Why We Built It This Way](https://mindlumen.substack.com/p/the-story-behind-mind-lumens-ethical) — the reasoning behind the constitution: the gatekeeping problem, the money problem, who holds knowledge, and the theory of healing these tools are built around.
+
+*Mind Lumen — [mindlumen.org](https://mindlumen.org)*
