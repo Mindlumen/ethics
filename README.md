@@ -2,6 +2,8 @@
 
 **Open source ethics infrastructure for mental health and psychedelic communities**
 
+**Author:** Neil Gehani, Founder, Mind Lumen
+
 Mind Lumen is a 501(c)(3) nonprofit. We build systems of trust: ethical frameworks, certification, and the infrastructure that makes accountability observable rather than asserted. We publish those frameworks openly, before we build on them, because a framework nobody can inspect is not a framework — it is a claim.
 
 This repository holds everything in that programme that is meant to be public.
@@ -61,7 +63,7 @@ The registry is a measurement instrument, not a screening instrument. It carries
 | Registry dataset (separate repository) | CDLA-Permissive-2.0 |
 | Standard names and conformance marks | Trademark, held by Mind Lumen |
 
-Attribution is requested for adaptation and reuse. Claiming conformance to a Mind Lumen standard requires the mark; implementing or adapting the standard does not.
+Attribution is requested for adaptation and reuse, in the form used throughout the ECP series: **attribution: Mind Lumen, Author: Neil Gehani**. Claiming conformance to a Mind Lumen standard requires the mark; implementing or adapting the standard does not.
 
 ## Contributing
 
