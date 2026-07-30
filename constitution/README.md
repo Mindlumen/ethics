@@ -31,7 +31,7 @@ Semantic versioning applies. Every change is committed with a rationale and reco
 
 ## License
 
-Published under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Free to share and adapt with attribution — including by organisations with no relationship to Mind Lumen.
+Published under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Free to share and adapt with attribution — including by organizations with no relationship to Mind Lumen.
 
 ## Related reading
 

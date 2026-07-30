@@ -6,18 +6,18 @@
 
 Mind Lumen is a 501(c)(3) nonprofit. We build systems of trust: ethical frameworks, certification, and the infrastructure that makes accountability observable rather than asserted. We publish those frameworks openly, before we build on them, because a framework nobody can inspect is not a framework — it is a claim.
 
-This repository holds everything in that programme that is meant to be public.
+This repository holds everything in that program that is meant to be public.
 
 ## What's in here
 
 ### `/ECPs` — Ethics Commons Proposals
 
-Community-ratifiable standards for handling ethics concerns and conflicts. The ECP series is independent of any platform or organisation, and any community may adopt it.
+Community-ratifiable standards for handling ethics concerns and conflicts. The ECP series is independent of any platform or organization, and any community may adopt it.
 
 | Document | What it covers |
 |---|---|
 | [ECP-0](ECPs/ecp-0000.md) | Series purpose and guidelines — template, statuses, editor role, amendment process |
-| [ECP-1](ECPs/ecp-0001.md) | Adjudication governance — authority boundaries, categorisation, severity ladder, disclosure tiers, the adjudication body |
+| [ECP-1](ECPs/ecp-0001.md) | Adjudication governance — authority boundaries, categorization, severity ladder, disclosure tiers, the adjudication body |
 | [ECP-2](ECPs/ecp-0002.md) | Registry data specification — record schema, de-identification, publication rules, AI agent constraints |
 
 ### `/repair-process` — The Nine Standards
@@ -44,11 +44,19 @@ This matters before you open a pull request. The documents here are not all chan
 
 A proposal to change an ECP is a community matter and follows ECP-0. A proposal to change the constitution is a suggestion to Mind Lumen, which we welcome but do not put to a vote. Both are worth making; they travel different routes.
 
+### Stewardship
+
+**Mind Lumen is currently the steward of this process.** It holds the repository, the discussion venue, and the published index, and the founding author serves as provisional editor during bootstrap. This is a starting condition, not the intended end state. A commons held by one organization is a commons in name only — it can be captured, it fails if its host fails, and it asks communities to trust a single nonprofit's continued goodwill rather than a structure.
+
+The intent is a **stewardship council** that shepherds the process forward, with Mind Lumen as one member among several and no greater standing than any other. Other stewards come from the communities these standards serve — psychedelic societies, community organizations, churches and other religious bodies, nonprofits and public benefit corporations, purpose trusts, and comparable bodies. What qualifies a steward is that it serves a community with a stake in the standards and holds no commercial interest in adjudication outcomes.
+
+The criteria and timing for seating the council are not yet set, and are coupled to the funding question — a council needs both something to steward and a way to sustain it.
+
 ## What is deliberately not here
 
 **Adjudicated case records.** These live in a separate registry under a different license (CDLA-Permissive-2.0), because they accumulate without bound, require privacy review on every addition, and are intended to transfer to an independent steward.
 
-**Case studies and internal analysis.** Case analysis is internal work. It informs the standards but is not published here, and no case material — however anonymised — belongs in this repository.
+**Case studies and internal analysis.** Case analysis is internal work. It informs the standards but is not published here, and no case material — however anonymized — belongs in this repository.
 
 **Working records from any adjudication.** These are confidential by design and destroyed or sealed at closure under ECP-1.
 
