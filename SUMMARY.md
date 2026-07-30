@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mind Lumen Ethics Infrastructure Framework](README.md)
+* [Psychedelics Ethics Infrastructure Framework](README.md)
   * [Stewardship](README.md#stewardship)
 
 ## Ethics Commons Proposals
