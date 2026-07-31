@@ -21,7 +21,7 @@ Without that answer, three predictable problems tend to emerge:
 3. **The process itself causes harm** — without clear privacy protections, someone can be publicly named before anyone has looked at the full picture, which means the process injures people regardless of the outcome
 4. **Who should be on the adjudication body** - What is the process for selecting and maintaining the independence of this body? 
 
-This framework addresses the first three by grounding repair in what can be practical and verified in this framework. The supplemental document Adjudication Registry addresses #4. 
+This framework addresses the first three by grounding repair in what can be practical and verified in this framework. [ECP-1 — Adjudication Governance](../ECPs/ecp-0001.md) addresses #4: body composition, the independence and experiential requirements, conflict-of-interest recusal, and the terms under which members serve.
 
 ---
 
